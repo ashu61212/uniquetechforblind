@@ -1,0 +1,19 @@
+{
+  "name": "uniquetechforblind",
+  "version": "1.0.0",
+  "description": "A tool for developers can make code easy for uniquetechforblind",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu61212/uniquetechforblind.git"
+  },
+  "author": "uniquetechforblind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu61212/uniquetechforblind/issues"
+  },
+  "homepage": "https://github.com/ashu61212/uniquetechforblind#readme"
+}
