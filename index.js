@@ -23,4 +23,4 @@ function msg(content) {
 function copy(text){
 navigator.clipboard.writeText(text)
 }
-module.exports = uniquetechforblind
+module.exports ={msg, copy }
